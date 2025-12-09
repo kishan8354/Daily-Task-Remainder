@@ -1,7 +1,7 @@
 /***** CONFIG: OOP Daily (70 Qs) — MOBILE READY *****/
 var APP_CFG = {
-  DOC_ID: '1218uxvQN9oGBrCsrmvB9e7FOcRL_N8oTv4Gk1uAQ_NY', // your Doc tracker
-  TO_EMAIL: 'kk3822065@gmail.com',
+  DOC_ID: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX', // your Doc tracker
+  TO_EMAIL: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
   YOUR_NAME: 'kishan kushavaha',
   SUBJECT_PREFIX: "OOP Daily Revision",
   TIMEZONE: 'Asia/Kolkata',
